@@ -13,8 +13,8 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
-global.autobio = true 
+global.autoread = true // auto read pesan / message
+global.autobio = false 
 
 //language
 //Available in indonesia , english & spanyol 
@@ -24,8 +24,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "Kasih-Botzོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ Adita Rོ×፝֟͜×" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
